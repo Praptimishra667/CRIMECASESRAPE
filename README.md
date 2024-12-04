@@ -36,3 +36,6 @@ This analysis highlights key factors and demographics associated with exposure t
 
 ## 7. **Worst-Case Scenario**
 - In the highest violence countries, the **worst condition** is for women or girls with **no education**, who are **most exposed to higher levels of violence**.
+
+
+![Screenshot 2024-12-05 010136](https://github.com/user-attachments/assets/57c4a5ca-6bb0-40f4-a2fe-642c7de5741a)
